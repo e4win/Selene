@@ -1,5 +1,5 @@
 # Selene
-Programa para reservar exposiciones en Visual Fox
+Programa para reservar exposiciones en Visual Fox (VFP)
 
 Para funcionar, se copia y se pega la carpeta selene a 
 C:\selene\
