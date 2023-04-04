@@ -11,7 +11,8 @@ o cambiar la ubicacion del archivo ubicacion.txt
 
 el project de fox es: Seleneproy.pjx
 
-![image](https://user-images.githubusercontent.com/23106478/229896453-44300343-06db-418e-9315-8791f2f6ce0b.png)
+![image](https://user-images.githubusercontent.com/23106478/229896689-0793fc41-97a6-4b30-a727-70b957f6a98f.png)
+
 
 
 
